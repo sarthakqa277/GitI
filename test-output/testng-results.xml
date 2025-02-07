@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-23T14:02:03 IST" name="Suite" finished-at="2025-01-23T14:02:04 IST" duration-ms="1050">
+    <groups>
+    </groups>
+    <test started-at="2025-01-23T14:02:03 IST" name="Test1" finished-at="2025-01-23T14:02:04 IST" duration-ms="1050">
+      <class name="Practice.TestX">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:03 IST" name="BeforeSuite" finished-at="2025-01-23T14:02:03 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:03 IST" name="BeforeTest" finished-at="2025-01-23T14:02:03 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:03 IST" name="BeforeClass" finished-at="2025-01-23T14:02:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="BeforeMethod" finished-at="2025-01-23T14:02:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="test()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="test" finished-at="2025-01-23T14:02:04 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="AfterMethod" finished-at="2025-01-23T14:02:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="AfterClass" finished-at="2025-01-23T14:02:04 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="AfterTest" finished-at="2025-01-23T14:02:04 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:Practice.TestX@75d4a5c2]" started-at="2025-01-23T14:02:04 IST" name="AfterSuite" finished-at="2025-01-23T14:02:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- Practice.TestX -->
+      <class name="Practice.TestI">
+        <test-method signature="testNGTest1()[pri:0, instance:Practice.TestI@206a70ef]" started-at="2025-01-23T14:02:04 IST" name="testNGTest1" finished-at="2025-01-23T14:02:04 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGTest1 -->
+      </class> <!-- Practice.TestI -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
