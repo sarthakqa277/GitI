@@ -8,6 +8,7 @@ public class TestI {
 	public void testNGTest1()
 	{
 		System.out.println("Test I");
+		System.out.println("Updated for git");
 	}
 	
 	/*
